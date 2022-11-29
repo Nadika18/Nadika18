@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nadikapoudel16@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/rSW25](shorturl.at/rSW25)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ebYvbaUzSq7q-bNa8TOpBa1oMDSxvlbx/view?usp=sharing](https://drive.google.com/file/d/1ebYvbaUzSq7q-bNa8TOpBa1oMDSxvlbx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
