@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadika Poudel</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Neural Network, Tensorflow, PyTorch**
+- 🌱 I’m currently learning **PyTorch and NLP**
 
 - 📫 How to reach me **nadikapoudel16@gmail.com**
 
